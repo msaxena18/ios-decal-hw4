@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Play/PlayerViewController.swift"
+            timestampString = "500964491.558292"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "PlayerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Play.PlayerViewController.tracks.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Play.Track&gt;&gt;"
+                  moduleName = "Play"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milansaxena/Downloads/ios-decal-hw4-master/Play/Play/PlayerViewController.swift"
+                  timestampString = "500964496.010949"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Play.PlayerViewController.tracks.setter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Play.Track&gt;&gt;"
+                  moduleName = "Play"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milansaxena/Downloads/ios-decal-hw4-master/Play/Play/PlayerViewController.swift"
+                  timestampString = "500964496.016608"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Play.PlayerViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Play.PlayerViewController"
+                  moduleName = "Play"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milansaxena/Downloads/ios-decal-hw4-master/Play/Play/PlayerViewController.swift"
+                  timestampString = "500964496.018362"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Play.PlayerViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Play.PlayerViewController&gt;"
+                  moduleName = "Play"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milansaxena/Downloads/ios-decal-hw4-master/Play/Play/PlayerViewController.swift"
+                  timestampString = "500964496.020073"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
